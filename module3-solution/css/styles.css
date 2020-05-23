@@ -4,4 +4,5 @@
 
 .text-bg {
     background-color: rgb(156, 141, 223);
+    border: 1px solid black;
 }
